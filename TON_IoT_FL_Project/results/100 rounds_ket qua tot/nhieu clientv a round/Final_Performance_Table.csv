@@ -1,0 +1,4 @@
+Method,Accuracy,Detection Rate (Recall),Precision,F1-Score,False Alarm Rate (FAR),Training Time (s)
+FedAvg,95.68,91.3,84.95,87.27,0.91,468.97
+FedProx,96.12,97.8,83.02,89.19,0.64,654.69
+DynamicFuzzy,96.52,94.31,84.91,88.68,0.66,663.58

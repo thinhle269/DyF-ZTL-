@@ -1,0 +1,4 @@
+Method,Accuracy,Detection Rate (Recall),Precision,F1-Score,False Alarm Rate (FAR),Round,Training Time (s)
+fedavg,96.38,94.88,86.72,89.97,0.7,99,1457.13
+fedprox,96.93,97.74,86.33,91.2,0.54,99,2052.87
+fuzzy,97.08,97.9,86.55,91.47,0.5,99,1948.49
